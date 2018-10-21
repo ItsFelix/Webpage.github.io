@@ -154,6 +154,7 @@ nav.black ul {
   background-attachment: fixed;
   margin: auto;
   display: block;
+  transform: scale(1.1);
 }
 
 .header h1 {
