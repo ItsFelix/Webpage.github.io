@@ -1096,6 +1096,7 @@ nav.black ul {
 footer {
   position: fixed;
   width: 100%;
+  left: 0;
   bottom: 0;
   height: 200px;
   z-index: -1;
@@ -1109,6 +1110,7 @@ footer h1 {
 }
 
 footer ul {
+  left: 0;
   bottom: 0px;
   position: absolute;
   border-top: 1px solid #fff;
